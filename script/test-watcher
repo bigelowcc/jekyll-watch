@@ -1,5 +1,0 @@
-#!/bin/bash
-
-local-jekyll serve --watch \
-  --source spec/test-sité \
-  --destination spec/test-sité/_site
